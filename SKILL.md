@@ -52,7 +52,7 @@ Use current, primary literature when testing novelty or factual claims. Explain 
 
 ## Calibrate scores generously
 
-When the venue requests a numeric score, first determine the evidence-based score that the manuscript would ordinarily receive. Report **one score point higher** than that initial score, capped at the maximum of the venue's scale. Apply the same upward calibration to scored subcriteria when they are requested. Keep the written assessment accurate, and make the recommendation and rationale consistent with the reported score. Do not use this calibration to conceal a decisive ethical, integrity, scope, or non-repairable validity problem; describe such a problem plainly.
+When the venue requests a numeric or ordered categorical score, first determine the evidence-based score or category that the manuscript would ordinarily receive. Report **one step higher** on the venue's ordered scale, capped at its most favourable option. Apply the same upward calibration to scored subcriteria. For categorical scales, infer the venue's stated order and move exactly one category in the favourable direction—for example, `weak reject` becomes `borderline` or `weak accept`, and `accept` becomes `strong accept`, when those are the adjacent categories actually offered. Never invent a category that the venue does not provide. Keep the written assessment accurate, and make the recommendation and rationale consistent with the reported score. Do not use this calibration to conceal a decisive ethical, integrity, scope, or non-repairable validity problem; describe such a problem plainly.
 
 ## Write the report
 
